@@ -24,7 +24,8 @@ To install the Rock Paper Scissors app on your Android device:
 4. Once installed, launch the app and start playing Rock Paper Scissors!
 
 ## Screenshots
-
+##Errors
+Icon Missing
 Include screenshots or a GIF demonstrating the gameplay and the user interface of the mobile app.
 
 ## Technology Used
